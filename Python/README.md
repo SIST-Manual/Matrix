@@ -147,7 +147,7 @@ True
 
 ## Check in
 
-- check in `Matrix.py` file into [github](https://github.org/)
+- check in `Matrix.py` file into [github](https://github.com/)
 
 ## Optional projects
 
